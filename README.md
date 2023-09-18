@@ -1,4 +1,4 @@
-# How to Deploy
+## How to Deploy
 
 For a complete guide, check out our [docs](https://docs.porter.run/language-specific-guides/fastapi).
 
